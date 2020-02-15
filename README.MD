@@ -1,5 +1,5 @@
 # board2D
-**board2D** is a JavaScript library that allows you to quickly develop 2D board games for the web. It is extremely easy to use and contains a very rich API.
+**board2D** is a JavaScript library that allows you to quickly develop 2D board games for the web. It is extremely easy to use and contains a very rich API for managing all aspects of gameplay.
 
 ## 1. Basic Tasks
 To use **board2D**, we need to include the corresponding javascript library file named **board2D.js** (assuming it is in the ‘scripts’ folder) in the script tag in our HTML file, as follows:
